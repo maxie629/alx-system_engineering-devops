@@ -1,1 +1,1 @@
-This is my task on shell basics
+Shell variable expansions
